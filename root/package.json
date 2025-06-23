@@ -1,0 +1,11 @@
+{
+  "name": "woodwizard-pro",
+  "version": "1.0.0",
+  "description": "Professional Woodworking Tool",
+  "scripts": {
+    "start": "serve -s"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
