@@ -1,7 +1,7 @@
 {
   "name": "woodwizard-pro",
   "version": "1.0.0",
-  "description": "Professional Woodworking Tool",
+  "description": "Professional woodworking tool",
   "scripts": {
     "start": "serve -s"
   },
